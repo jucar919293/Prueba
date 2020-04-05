@@ -2,4 +2,4 @@ Hola mi nombre es Juan Carlos
 
 Nací en Huancayo
 
-Estoy aprendiendo css
+Estoy aprendiendo css y git por supuesto
