@@ -1,4 +1,1 @@
-Hola mi nombre es Juan Carlos
-
-Estoy cambiando a otra documentación
-estoy usando github
+Soy otra persona
